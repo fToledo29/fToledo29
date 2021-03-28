@@ -4,3 +4,4 @@
 - 💞️ I’m looking to collaborate on JavaScript projects.
 - 📫 How to reach me twitter: @fernandot_23
 
+![Fernando's github stats](https://github-readme-stats.vercel.app/api?username=fToledo29&show_icons=true&theme=tokyonight)
