@@ -13,7 +13,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=fToledo29&label=Profile%20views&color=0e75b6&style=flat" alt="fToledo29" /> </p>
 
-![Fernando's github stats](https://github-readme-stats.vercel.app/api?username=fToledo29&show_icons=true&theme=outrun)
+![Fernando's github stats](https://github-readme-stats.vercel.app/api?username=fToledo29&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fToledo29&layout=compact&theme=outrun)](https://github.com/fToledo29/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fToledo29&layout=compact&theme=ocean_dark)](https://github.com/fToledo29/github-readme-stats)
