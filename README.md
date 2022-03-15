@@ -1,6 +1,6 @@
 - 👋 Hi, my name is Fernando Toledo
 - 👀 I’m interested in JavaScript development, currently working as a Front-end developer.
--  I enjoy working with ReactJS ⚛️, I have created a few things with this technology.
+-  I enjoy working with ReactJS ⚛️.
 - 🌱 I’m currently gaining more knowledge about DS And Algorithms.
 - 💞️ I’m looking to collaborate on JavaScript projects.
 
